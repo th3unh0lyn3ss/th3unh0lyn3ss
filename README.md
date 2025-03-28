@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am learning as much as I can about networking, homelabbing, and cybersecurity, with the hopes to get a decent job, maybe as a sysadmin?
+
 <!--
 **th3unh0lyn3ss/th3unh0lyn3ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
